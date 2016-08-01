@@ -9,10 +9,6 @@ image_resource:
 inputs:
   - name: git-repo
 outputs:
-  - name: updated-gist
-
-
-outputs:
   - name: jar-file
     path: git-repo/target/
 
